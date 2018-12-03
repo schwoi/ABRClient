@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <metadata xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+        <id>AbrApi</id>
+        <version>1.0.0.0</version>
+        <authors>Brent Howard</authors>
+        <summary>.NET Standard library for querying the Australian Business Register.</summary>
+        <description>This is a .NET Standard library for the Australian Business Register. It allows you to query the ABR API by ABN, ACN or return a list based on name.</description>
+        <language>en-US</language>
+        <licenseUrl>https://github.com/schwoi/ABRClient/blob/master/LICENSE</licenseUrl>
+        <projectUrl>https://github.com/schwoi/ABRClient</projectUrl>
+        <tags>ABR</tags>
+    </metadata>
+</package>
